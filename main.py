@@ -116,7 +116,7 @@ def get_image_url(api_url, headers=None):
 def main():
     global NUM_THREADS
     print("Select API to fetch images from:")
-    print("1. Cracky Drinks NSFW API (FAST)")
+    print("1. Cracky Drinks NSFW API (DEAD)")
     print("2. Nekobot API (FAST)")
     print("3. NSFWHub API (SLOW)")
     print("4. Night API (MEDIUM)")
